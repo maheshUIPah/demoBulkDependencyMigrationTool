@@ -1,0 +1,9 @@
+#json{
+  "ProjectPath": "C:\\Users\\mahesh.kumar\\Documents\\UiPath\\demoMassDependencyTool\\project.json",
+  "Added": [
+    "UiPath.Excel.Activities 2.24.4 Lowest Applicable Version"
+  ],
+  "Removed": [
+    "UiPath.Excel.Activities 2.24.4 Strict"
+  ]
+}#json

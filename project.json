@@ -4,8 +4,8 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "randomGenerator": "1.0.4",
-    "UiPath.Excel.Activities": "[2.24.4]",
+    "randomGenerator": "[1.0.3]",
+    "UiPath.Excel.Activities": "2.24.4",
     "UiPath.System.Activities": "[24.10.7]",
     "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.10]"
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.8.0",
-  "projectVersion": "1.0.5",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -51,6 +51,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "c985bfae-df64-4be5-a385-f3ebf8c41747",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Workflow.cs",
+      "uniqueId": "3dc58517-0fcc-429a-86bc-a350c33cb31a",
       "input": [],
       "output": []
     }
